@@ -1,5 +1,5 @@
 import bugImageUrl from '../../assets/bug.svg'
-import ideaImageUrl from '../../assets/idea.svg'
+import ideaImageUrl from '../../assets/Idea.svg'
 
 import troughtImageUrl from '../../assets/trought.svg'
 import { useState } from "react";
